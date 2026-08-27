@@ -1,0 +1,212 @@
+﻿fecha,dia_semana,hora_inicio,hora_fin,area_actividad,subcategoria,item_detalle,idioma_o_contexto,duracion_minutos,intensidad_o_score
+2026-07-15,Wednesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-15,Wednesday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-07-15,Wednesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-15,Wednesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-15,Wednesday,18:30,20:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,90,9
+2026-07-15,Wednesday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-07-16,Thursday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-16,Thursday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-07-16,Thursday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-16,Thursday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-16,Thursday,18:30,20:00,Ejercicio,Gimnasio,Rutina Hipertrofia / Torso,Gimnasio,90,8
+2026-07-16,Thursday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-07-17,Friday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-17,Friday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-07-17,Friday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-17,Friday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-17,Friday,18:30,20:00,Ejercicio,Gimnasio,"Rutina Pecho, Hombros y Tríceps",Gimnasio,90,9
+2026-07-17,Friday,20:30,23:30,Ocio,Gaming,Sesión de Videojuegos / Anime,Francés / Alemán,180,10
+2026-07-18,Saturday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-18,Saturday,09:00,10:30,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-18,Saturday,10:30,13:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,150,10
+2026-07-18,Saturday,13:30,15:00,Ocio,Series,Visualización de 2 Capítulos de Serie,Francés / Alemán,90,8
+2026-07-18,Saturday,15:00,20:00,Ocio,Gaming / Anime,Sesión de Gaming / Anime,Francés / Alemán,300,9
+2026-07-19,Sunday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-19,Sunday,09:00,12:00,Estudio,Idiomas,Práctica Intensiva de Inglés,Inglés,180,9
+2026-07-19,Sunday,13:00,19:00,Ocio,Gaming / Series,Maratón de Series / Videojuegos,Francés / Alemán,360,9
+2026-07-20,Monday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-20,Monday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-07-20,Monday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-20,Monday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-20,Monday,18:30,20:00,Ejercicio,Gimnasio,Rutina Espalda y Bíceps,Gimnasio,90,9
+2026-07-20,Monday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-07-21,Tuesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-21,Tuesday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-07-21,Tuesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-21,Tuesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-21,Tuesday,18:30,22:00,Ocio,Gaming / Series,Videojuegos y Series,Francés / Alemán,210,9
+2026-07-22,Wednesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-22,Wednesday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-07-22,Wednesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-22,Wednesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-22,Wednesday,18:30,20:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,90,9
+2026-07-22,Wednesday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-07-23,Thursday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-23,Thursday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-07-23,Thursday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-23,Thursday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-23,Thursday,18:30,20:00,Ejercicio,Gimnasio,Rutina Hipertrofia / Torso,Gimnasio,90,8
+2026-07-23,Thursday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-07-24,Friday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-24,Friday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-07-24,Friday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-24,Friday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-24,Friday,18:30,20:00,Ejercicio,Gimnasio,"Rutina Pecho, Hombros y Tríceps",Gimnasio,90,9
+2026-07-24,Friday,20:30,23:30,Ocio,Gaming,Sesión de Videojuegos / Anime,Francés / Alemán,180,10
+2026-07-25,Saturday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-25,Saturday,09:00,10:30,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-25,Saturday,10:30,13:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,150,10
+2026-07-25,Saturday,13:30,15:00,Ocio,Series,Visualización de 2 Capítulos de Serie,Francés / Alemán,90,8
+2026-07-25,Saturday,15:00,20:00,Ocio,Gaming / Anime,Sesión de Gaming / Anime,Francés / Alemán,300,9
+2026-07-26,Sunday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-26,Sunday,09:00,12:00,Estudio,Idiomas,Práctica Intensiva de Alemán,Alemán,180,9
+2026-07-26,Sunday,13:00,19:00,Ocio,Gaming / Series,Maratón de Series / Videojuegos,Francés / Alemán,360,9
+2026-07-27,Monday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-27,Monday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-07-27,Monday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-27,Monday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-27,Monday,18:30,20:00,Ejercicio,Gimnasio,Rutina Espalda y Bíceps,Gimnasio,90,9
+2026-07-27,Monday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-07-28,Tuesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-28,Tuesday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-07-28,Tuesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-28,Tuesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-28,Tuesday,18:30,22:00,Ocio,Gaming / Series,Videojuegos y Series,Francés / Alemán,210,9
+2026-07-29,Wednesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-29,Wednesday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-07-29,Wednesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-29,Wednesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-29,Wednesday,18:30,20:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,90,9
+2026-07-29,Wednesday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-07-30,Thursday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-30,Thursday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-07-30,Thursday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-30,Thursday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-30,Thursday,18:30,20:00,Ejercicio,Gimnasio,Rutina Hipertrofia / Torso,Gimnasio,90,8
+2026-07-30,Thursday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-07-31,Friday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-07-31,Friday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-07-31,Friday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-07-31,Friday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-07-31,Friday,18:30,20:00,Ejercicio,Gimnasio,"Rutina Pecho, Hombros y Tríceps",Gimnasio,90,9
+2026-07-31,Friday,20:30,23:30,Ocio,Gaming,Sesión de Videojuegos / Anime,Francés / Alemán,180,10
+2026-08-01,Saturday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-01,Saturday,09:00,10:30,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-01,Saturday,10:30,13:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,150,10
+2026-08-01,Saturday,13:30,15:00,Ocio,Series,Visualización de 2 Capítulos de Serie,Francés / Alemán,90,8
+2026-08-01,Saturday,15:00,20:00,Ocio,Gaming / Anime,Sesión de Gaming / Anime,Francés / Alemán,300,9
+2026-08-02,Sunday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-02,Sunday,09:00,12:00,Estudio,Idiomas,Práctica Intensiva de Francés,Francés,180,9
+2026-08-02,Sunday,13:00,19:00,Ocio,Gaming / Series,Maratón de Series / Videojuegos,Francés / Alemán,360,9
+2026-08-03,Monday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-03,Monday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-08-03,Monday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-03,Monday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-03,Monday,18:30,20:00,Ejercicio,Gimnasio,Rutina Espalda y Bíceps,Gimnasio,90,9
+2026-08-03,Monday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-08-04,Tuesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-04,Tuesday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-08-04,Tuesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-04,Tuesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-04,Tuesday,18:30,22:00,Ocio,Gaming / Series,Videojuegos y Series,Francés / Alemán,210,9
+2026-08-05,Wednesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-05,Wednesday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-08-05,Wednesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-05,Wednesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-05,Wednesday,18:30,20:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,90,9
+2026-08-05,Wednesday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-08-06,Thursday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-06,Thursday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-08-06,Thursday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-06,Thursday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-06,Thursday,18:30,20:00,Ejercicio,Gimnasio,Rutina Hipertrofia / Torso,Gimnasio,90,8
+2026-08-06,Thursday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-08-07,Friday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-07,Friday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-08-07,Friday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-07,Friday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-07,Friday,18:30,20:00,Ejercicio,Gimnasio,"Rutina Pecho, Hombros y Tríceps",Gimnasio,90,9
+2026-08-07,Friday,20:30,23:30,Ocio,Gaming,Sesión de Videojuegos / Anime,Francés / Alemán,180,10
+2026-08-08,Saturday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-08,Saturday,09:00,10:30,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-08,Saturday,10:30,13:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,150,10
+2026-08-08,Saturday,13:30,15:00,Ocio,Series,Visualización de 2 Capítulos de Serie,Francés / Alemán,90,8
+2026-08-08,Saturday,15:00,20:00,Ocio,Gaming / Anime,Sesión de Gaming / Anime,Francés / Alemán,300,9
+2026-08-09,Sunday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-09,Sunday,09:00,12:00,Estudio,Idiomas,Práctica Intensiva de Inglés,Inglés,180,9
+2026-08-09,Sunday,13:00,19:00,Ocio,Gaming / Series,Maratón de Series / Videojuegos,Francés / Alemán,360,9
+2026-08-10,Monday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-10,Monday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-08-10,Monday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-10,Monday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-10,Monday,18:30,20:00,Ejercicio,Gimnasio,Rutina Espalda y Bíceps,Gimnasio,90,9
+2026-08-10,Monday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-08-11,Tuesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-11,Tuesday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-08-11,Tuesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-11,Tuesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-11,Tuesday,18:30,22:00,Ocio,Gaming / Series,Videojuegos y Series,Francés / Alemán,210,9
+2026-08-12,Wednesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-12,Wednesday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-08-12,Wednesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-12,Wednesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-12,Wednesday,18:30,20:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,90,9
+2026-08-12,Wednesday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-08-13,Thursday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-13,Thursday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-08-13,Thursday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-13,Thursday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-13,Thursday,18:30,20:00,Ejercicio,Gimnasio,Rutina Hipertrofia / Torso,Gimnasio,90,8
+2026-08-13,Thursday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-08-14,Friday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-14,Friday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-08-14,Friday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-14,Friday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-14,Friday,18:30,20:00,Ejercicio,Gimnasio,"Rutina Pecho, Hombros y Tríceps",Gimnasio,90,9
+2026-08-14,Friday,20:30,23:30,Ocio,Gaming,Sesión de Videojuegos / Anime,Francés / Alemán,180,10
+2026-08-15,Saturday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-15,Saturday,09:00,10:30,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-15,Saturday,10:30,13:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,150,10
+2026-08-15,Saturday,13:30,15:00,Ocio,Series,Visualización de 2 Capítulos de Serie,Francés / Alemán,90,8
+2026-08-15,Saturday,15:00,20:00,Ocio,Gaming / Anime,Sesión de Gaming / Anime,Francés / Alemán,300,9
+2026-08-16,Sunday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-16,Sunday,09:00,12:00,Estudio,Idiomas,Práctica Intensiva de Alemán,Alemán,180,9
+2026-08-16,Sunday,13:00,19:00,Ocio,Gaming / Series,Maratón de Series / Videojuegos,Francés / Alemán,360,9
+2026-08-17,Monday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-17,Monday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-08-17,Monday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-17,Monday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-17,Monday,18:30,20:00,Ejercicio,Gimnasio,Rutina Espalda y Bíceps,Gimnasio,90,9
+2026-08-17,Monday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-08-18,Tuesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-18,Tuesday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-08-18,Tuesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-18,Tuesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-18,Tuesday,18:30,22:00,Ocio,Gaming / Series,Videojuegos y Series,Francés / Alemán,210,9
+2026-08-19,Wednesday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-19,Wednesday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-08-19,Wednesday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-19,Wednesday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-19,Wednesday,18:30,20:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,90,9
+2026-08-19,Wednesday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-08-20,Thursday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-20,Thursday,07:00,08:45,Estudio,Idiomas,Práctica de Alemán,Alemán,105,9
+2026-08-20,Thursday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-20,Thursday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-20,Thursday,18:30,20:00,Ejercicio,Gimnasio,Rutina Hipertrofia / Torso,Gimnasio,90,8
+2026-08-20,Thursday,20:30,23:00,Ocio,Gaming,Sesión de Videojuegos,Francés / Alemán,150,9
+2026-08-21,Friday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-21,Friday,07:00,08:45,Estudio,Idiomas,Práctica de Francés,Francés,105,9
+2026-08-21,Friday,09:00,16:00,Trabajo,Laboral,Jornada Laboral,Oficina / Remoto,420,8
+2026-08-21,Friday,16:30,18:00,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-21,Friday,18:30,20:00,Ejercicio,Gimnasio,"Rutina Pecho, Hombros y Tríceps",Gimnasio,90,9
+2026-08-21,Friday,20:30,23:30,Ocio,Gaming,Sesión de Videojuegos / Anime,Francés / Alemán,180,10
+2026-08-22,Saturday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-22,Saturday,09:00,10:30,Estudio,Idiomas,Práctica de Inglés,Inglés,90,8
+2026-08-22,Saturday,10:30,13:00,Ejercicio,Gimnasio,Rutina Piernas,Gimnasio,150,10
+2026-08-22,Saturday,13:30,15:00,Ocio,Series,Visualización de 2 Capítulos de Serie,Francés / Alemán,90,8
+2026-08-22,Saturday,15:00,20:00,Ocio,Gaming / Anime,Sesión de Gaming / Anime,Francés / Alemán,300,9
+2026-08-23,Sunday,00:00,06:00,Descanso,Sueño,Sueño Nocturno,Español,360,8
+2026-08-23,Sunday,09:00,12:00,Estudio,Idiomas,Práctica Intensiva de Francés,Francés,180,9
+2026-08-23,Sunday,13:00,19:00,Ocio,Gaming / Series,Maratón de Series / Videojuegos,Francés / Alemán,360,9
