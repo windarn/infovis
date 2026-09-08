@@ -57,7 +57,7 @@
       border: 1px solid #e9ecef;
       border-radius: 8px;
       padding: 24px;
-      margin-top: 20px;
+      margin-top: 32px;
     }
     h2 {
       font-size: 1.3rem;
@@ -94,7 +94,7 @@
       <p class="subtitle">Análisis cuantitativo de 211 actividades registradas a lo largo de 40 días (15 de julio al 23 de agosto de 2026)</p>
     </header>
 
-    <!-- SECCIÓN DEL GRÁFICO ALLUVIAL -->
+    <!-- SECCIÓN DEL GRÁFICO ALLUVIAL (RAWGRAPHS) -->
     <section class="chart-section">
       <span class="badge">Herramienta: RAWGraphs</span>
       
@@ -106,6 +106,22 @@
 
       <div class="chart-box">
         <img src="flujo_actividades_alluvial.svg" alt="Diagrama Alluvial de Flujo de Actividades">
+      </div>
+    </section>
+
+    <!-- SECCIÓN DEL GRÁFICO SCATTER PLOT (DATAWRAPPER) -->
+    <section class="chart-section">
+      <span class="badge">Herramienta: Datawrapper</span>
+      
+      <h2>¿Existe relación entre la duración de una actividad y la intensidad o satisfacción percibida?</h2>
+      
+      <p class="description">
+        Este gráfico de dispersión evalúa si invertir más minutos en una actividad se traduce en una mayor puntuación de intensidad o satisfacción. El análisis demuestra que no existe una dependencia lineal: las actividades con puntajes máximos (10/10), como el gimnasio, corresponden a duraciones moderadas, mientras que los bloques de mayor extensión horaria (como el trabajo o el descanso) se concentran en puntuaciones intermedias.
+      </p>
+
+      <div class="chart-box">
+        <iframe title="¿Existe relación entre la duración de una actividad y la intensidad o satisfacción percibida?" aria-label="Scatter Plot" id="datawrapper-chart-TIaCv" src="https://datawrapper.dwcdn.net/TIaCv/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="461" data-external="1"></iframe>
+        <script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
       </div>
     </section>
   </main>
