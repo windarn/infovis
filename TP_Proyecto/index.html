@@ -69,12 +69,19 @@
         .chart-box {
             width: 100%;
             margin: 20px 0;
-            min-height: 400px;
+            min-height: 350px;
             display: flex;
             justify-content: center;
             align-items: center;
             background-color: #fafafa;
             border-radius: 4px;
+            overflow: hidden;
+        }
+
+        .chart-box img {
+            max-width: 100%;
+            height: auto;
+            display: block;
         }
 
         .description {
@@ -110,14 +117,14 @@
             <p>Monitoreo continuo de actividades y hábitos durante un período de 40 días</p>
         </header>
 
-        <!-- SECCIÓN 1: RAWGraphs -->
+        <!-- SECCIÓN 1: RAWGraphs (Alluvial Diagram) -->
         <section class="section-card">
             <h2>1. Distribución Categórica de Tiempo (RAWGraphs)</h2>
             <div class="chart-box">
-                <!-- Colocar aquí el iframe o SVG exportado desde RAWGraphs -->
+                <img src="flujo_actividades_alluvial.svg" alt="Diagrama de flujo alluvial de actividades">
             </div>
             <div class="description">
-                <p><strong>Descripción:</strong> Esta visualización inicial permite observar la estructura general y la proporción del tiempo invertido en las distintas actividades a lo largo del período evaluado.</p>
+                <p><strong>Análisis de Flujo Categórico:</strong> Este diagrama aluvial permite visualizar cómo se distribuyen los bloques de tiempo diario entre las distintas actividades, mostrando las conexiones y proporciones de volumen entre categorías a lo largo de los registros.</p>
             </div>
         </section>
 
@@ -125,10 +132,10 @@
         <section class="section-card">
             <h2>2. Comparativa e Indicadores Clave (Datawrapper)</h2>
             <div class="chart-box">
-                <!-- Colocar aquí el iframe de Datawrapper -->
+                <iframe title="Distribución de tiempo por actividad" aria-label="Interactive chart" id="datawrapper-chart-XXXXX" src="https://datawrapper.dwcdn.net/XXXXX/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe>
             </div>
             <div class="description">
-                <p><strong>Descripción:</strong> Gráfico interactivo que detalla la variación cuantitativa y las tendencias por categoría para identificar picos de carga de trabajo y descanso.</p>
+                <p><strong>Análisis de Variación:</strong> Métrica comparativa que resume los promedios y distribución acumulada para evaluar la consistencia entre días hábiles y fines de semana.</p>
             </div>
         </section>
 
@@ -144,12 +151,12 @@
                 </div>
             </div>
             <div class="description">
-                <p><strong>Análisis de la Dinámica Temporal:</strong> Este gráfico de flujo (<em>Streamgraph</em>) representa la distribución y variación acumulada del tiempo (medido en minutos) asignado a cinco dimensiones diarias: <strong>Descanso, Ejercicio, Estudio, Ocio y Trabajo</strong> a lo largo de 40 días seguidos (15 de julio al 23 de agosto de 2026).</p>
+                <p><strong>Análisis de la Dinámica Temporal:</strong> Gráfico de flujo (<em>Streamgraph</em>) que representa la distribución del tiempo (en minutos) acumulado entre cinco áreas principales: <strong>Descanso, Ejercicio, Estudio, Ocio y Trabajo</strong> a lo largo de 40 días consecutivos (15 de julio al 23 de agosto de 2026).</p>
                 <p><strong>Principales Hallazgos:</strong></p>
                 <ul>
-                    <li><strong>Regularidad Cíclica:</strong> Se observa un patrón semanal claro, donde la categoría <em>Trabajo</em> predomina durante los días hábiles y disminuye notablemente los fines de semana, cediendo espacio al <em>Ocio</em> y al <em>Estudio</em>.</li>
-                    <li><strong>Estabilidad del Descanso:</strong> La base del gráfico muestra una asignación constante de minutos destinados al descanso diario, manteniendo la consistencia de la rutina.</li>
-                    <li><strong>Gama Cromática Integrada:</strong> Utiliza una escala secuencial azul en degradé (`#0D3B66` a `#7EA8F8`) para jerarquizar visualmente cada tipo de actividad sin saturar la lectura.</li>
+                    <li><strong>Patrón Semanal:</strong> La dimensión <em>Trabajo</em> predomina durante los días hábiles y disminuye los fines de semana, cediendo espacio al <em>Ocio</em> y al <em>Estudio</em>.</li>
+                    <li><strong>Estabilidad del Descanso:</strong> Se mantiene una franja base constante destinada a la recuperación diaria.</li>
+                    <li><strong>Armonía Visual:</strong> Se aplica una paleta azul graduada (`#0D3B66` a `#7EA8F8`) para jerarquizar cada área con claridad.</li>
                 </ul>
             </div>
         </section>
