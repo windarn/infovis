@@ -30,8 +30,8 @@
 
         header {
             text-align: center;
-            margin-bottom: 40px;
-            padding: 20px;
+            margin-bottom: 30px;
+            padding: 25px;
             background-color: var(--primary-blue);
             color: white;
             border-radius: 8px;
@@ -47,6 +47,21 @@
             margin: 0;
             opacity: 0.9;
             font-size: 1.1rem;
+        }
+
+        .intro-card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            padding: 25px;
+            margin-bottom: 35px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+            border-left: 6px solid var(--primary-blue);
+        }
+
+        .intro-card h2 {
+            color: var(--primary-blue);
+            margin-top: 0;
+            font-size: 1.4rem;
         }
 
         .section-card {
@@ -87,7 +102,7 @@
         .description {
             background-color: #f8f9fa;
             border-left: 4px solid var(--secondary-blue);
-            padding: 15px;
+            padding: 18px;
             margin-top: 15px;
             border-radius: 0 4px 4px 0;
         }
@@ -98,6 +113,15 @@
 
         .description p:last-child {
             margin-bottom: 0;
+        }
+
+        .description ul {
+            margin: 5px 0 10px 20px;
+            padding: 0;
+        }
+
+        .description li {
+            margin-bottom: 5px;
         }
 
         footer {
@@ -117,6 +141,18 @@
             <p>Monitoreo continuo de actividades y hábitos durante un período de 40 días</p>
         </header>
 
+        <!-- SECCIÓN DE OBJETIVO DEL ESTUDIO -->
+        <section class="intro-card">
+            <h2>Objetivo del Estudio</h2>
+            <p>El propósito de este proyecto es analizar de manera exhaustiva la gestión del tiempo personal y profesional a lo largo de un ciclo continuo de 40 días (comprendido entre el 15 de julio y el 23 de agosto de 2026). A través de la recolección de datos cuantitativos y cualitativos diarios, se busca comprender cómo se distribuyen las horas entre las distintas facetas de la rutina diaria: <strong>Descanso, Ejercicio, Estudio, Ocio y Trabajo</strong>.</p>
+            <p>El análisis aborda tres dimensiones clave:</p>
+            <ul>
+                <li><strong>Dimensión Estructural:</strong> El flujo y la asignación categórica del volumen total de tiempo acumulado.</li>
+                <li><strong>Dimensión Quali-Cuantitativa:</strong> La correlación entre la duración de las actividades y la percepción de intensidad o satisfacción de cada bloque.</li>
+                <li><strong>Dimensión Temporal:</strong> La dinámica longitudinal y los patrones de variación entre días hábiles y fines de semana.</li>
+            </ul>
+        </section>
+
         <!-- SECCIÓN 1: RAWGraphs (Alluvial Diagram) -->
         <section class="section-card">
             <h2>1. Distribución Categórica de Tiempo (RAWGraphs)</h2>
@@ -124,19 +160,35 @@
                 <img src="flujo_actividades_alluvial.svg" alt="Diagrama de flujo alluvial de actividades">
             </div>
             <div class="description">
-                <p><strong>Análisis de Flujo Categórico:</strong> Este diagrama aluvial permite visualizar cómo se distribuyen los bloques de tiempo diario entre las distintas actividades, mostrando las conexiones y proporciones de volumen entre categorías a lo largo de los registros.</p>
+                <p><strong>¿Qué pregunta responde este gráfico?</strong><br>
+                <em>¿Cómo se ramifican y conectan las distintas actividades en la estructura general del tiempo registrado durante el estudio?</em></p>
+                <p><strong>Análisis de la Visualización:</strong><br>
+                Este diagrama aluvial (<em>Alluvial Diagram</em>) representa el volumen relativo del tiempo invertido en cada dimensión mediante franjas de flujo continuo. Permite observar cómo el tiempo total se segmenta hacia las categorías principales (Descanso, Trabajo, Ocio, Estudio y Ejercicio), visibilizando el peso relativo que tiene cada bloque sobre el total general.</p>
+                <p><strong>Hallazgos Clave:</strong></p>
+                <ul>
+                    <li>Las dimensiones de <strong>Descanso</strong> y <strong>Trabajo</strong> absorben la mayor porción del flujo de tiempo acumulado, constituyendo la columna vertebral del volumen medido.</li>
+                    <li>Las categorías de <strong>Ejercicio</strong> y <strong>Estudio</strong> actúan como flujos secundarios pero constantes, mostrando una dedicación regular dentro de la estructura global.</li>
+                </ul>
             </div>
         </section>
 
         <!-- SECCIÓN 2: Datawrapper -->
         <section class="section-card">
-            <h2>2. Comparativa e Indicadores Clave (Datawrapper)</h2>
+            <h2>2. Relación de Duración e Intensidad / Satisfacción (Datawrapper)</h2>
             <div class="chart-box">
                 <iframe title="¿Existe relación entre la duración de una actividad y la intensidad o satisfacción percibida?" aria-label="Scatter Plot" id="datawrapper-chart-TIaCv" src="https://datawrapper.dwcdn.net/TIaCv/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="461" data-external="1"></iframe>
                 <script type="text/javascript">(function(){function e(){window.addEventListener(`message`,function(e){if(e.data[`datawrapper-height`]!==void 0){var t=document.querySelectorAll(`iframe`);for(var n in e.data[`datawrapper-height`])for(var r=0,i;i=t[r];r++)if(i.contentWindow===e.source){var a=e.data[`datawrapper-height`][n]+`px`;i.style.height=a}}})}e()})();</script>
             </div>
             <div class="description">
-                <p><strong>Análisis de Dispersión y Correlación:</strong> Explora la relación entre la duración de cada actividad y la intensidad o satisfacción percibida, permitiendo identificar patrones de rendimiento y bienestar.</p>
+                <p><strong>¿Qué pregunta responde este gráfico?</strong><br>
+                <em>¿Invertir más tiempo en una actividad garantiza un mayor nivel de satisfacción o desgaste/intensidad percibida?</em></p>
+                <p><strong>Análisis de la Visualización:</strong><br>
+                Un gráfico de dispersión (<em>Scatter Plot</em>) interactivo que cruza la duración (en minutos u horas) de las sesiones registradas con la percepción subjetiva asociada (medida en escalas de intensidad o satisfacción). Permite identificar agrupamientos (clusters) y valores atípicos (outliers) en las dinámicas personales.</p>
+                <p><strong>Hallazgos Clave:</strong></p>
+                <ul>
+                    <li><strong>Calidad vs. Cantidad:</strong> Bloques más breves dedicados al <em>Ejercicio</em> suelen presentar puntajes de satisfacción e intensidad muy altos, demostrando la eficiencia del esfuerzo concentrado.</li>
+                    <li><strong>Saturación en Bloques Largos:</strong> Las jornadas extensas de <em>Trabajo</em> muestran rendimientos decrecientes en la percepción de satisfacción a medida que la duración aumenta sin pausas intermedias.</li>
+                </ul>
             </div>
         </section>
 
@@ -152,12 +204,15 @@
                 </div>
             </div>
             <div class="description">
-                <p><strong>Análisis de la Dinámica Temporal:</strong> Gráfico de flujo (<em>Streamgraph</em>) que representa la distribución del tiempo (en minutos) acumulado entre cinco áreas principales: <strong>Descanso, Ejercicio, Estudio, Ocio y Trabajo</strong> a lo largo de 40 días consecutivos (15 de julio al 23 de agosto de 2026).</p>
-                <p><strong>Principales Hallazgos:</strong></p>
+                <p><strong>¿Qué pregunta responde este gráfico?</strong><br>
+                <em>¿Cómo varían dinámicamente los hábitos diarios día a día a lo largo de 6 semanas consecutivas?</em></p>
+                <p><strong>Análisis de la Visualización:</strong><br>
+                Este gráfico de flujo (<em>Streamgraph</em>) muestra la acumulación diaria del tiempo (en minutos) invertido en las 5 actividades principales a lo largo de los 40 días continuos (15 de julio al 23 de agosto de 2026). La fluidez de las curvas resalta las expansiones y contracciones del uso del tiempo entre jornadas.</p>
+                <p><strong>Hallazgos Clave:</strong></p>
                 <ul>
-                    <li><strong>Patrón Semanal:</strong> La dimensión <em>Trabajo</em> predomina durante los días hábiles y disminuye los fines de semana, cediendo espacio al <em>Ocio</em> y al <em>Estudio</em>.</li>
-                    <li><strong>Estabilidad del Descanso:</strong> Se mantiene una franja base constante destinada a la recuperación diaria.</li>
-                    <li><strong>Armonía Visual:</strong> Se aplica una paleta azul graduada (`#0D3B66` a `#7EA8F8`) para jerarquizar cada área con claridad.</li>
+                    <li><strong>Ciclicidad Semanal Definida:</strong> La franja superior correspondiente a <em>Trabajo</em> presenta picos pronunciados durante los días de semana laborables y se comprime drásticamente durante los fines de semana.</li>
+                    <li><strong>Compensación Fin de Semana:</strong> Durante los sábados y domingos se observa una expansión proporcional de las áreas de <em>Ocio</em> y <em>Estudio</em>.</li>
+                    <li><strong>Estabilidad Basal:</strong> La base correspondiente al <em>Descanso</em> sostiene una franja estable a lo largo de todo el ciclo, garantizando el balance biológico diario.</li>
                 </ul>
             </div>
         </section>
